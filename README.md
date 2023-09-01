@@ -4,7 +4,7 @@ This repository contains code and resources for a fake news detection project. T
 
 ## Dataset
 
-The dataset used for this project is not included in this repository. However, you can find the dataset on the following GitHub repository: [Fake News Dataset](https://github.com/mdrizwan1018/fakenews/tree/main/data).
+The dataset used for this project is not included in this repository. However, you can find the dataset on the following GitHub repository: [Fake News Dataset](https://github.com/SameerIdrishi/FakeNewsDetection).
 
 The dataset consists of two main files:
 - `fake.csv`: Contains fake news articles.
@@ -29,8 +29,8 @@ The repository has the following structure:
 
 To use this project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/mdrizwan1018/fakenews.git`
-2. Download the dataset files from the [Fake News Dataset](https://github.com/mdrizwan1018/fakenews/tree/main/data) repository and place them in the `data/` directory.
+1. Clone the repository: `git clone https://github.com/SameerIdrishi/FakeNewsDetection.git`
+2. Download the dataset files from the [Fake News Dataset](https://github.com/SameerIdrishi/FakeNewsDetection) repository and place them in the `data/` directory.
 3. Open and run the Jupyter Notebooks in the `src/` directory for data preprocessing and model training.
 4. Modify or extend the code as needed for your specific requirements.
 
@@ -51,4 +51,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
-We would like to acknowledge the contributors of the [Fake News Dataset](https://github.com/mdrizwan1018/fakenews/tree/main/data) for providing the dataset used in this project. Their efforts in collecting and curating the data are greatly appreciated.
+We would like to acknowledge the contributors of the [Fake News Dataset](https://github.com/SameerIdrishi/FakeNewsDetection) for providing the dataset used in this project. Their efforts in collecting and curating the data are greatly appreciated.
